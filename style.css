@@ -1,0 +1,82 @@
+* {
+  padding: 0px;
+  margin: 0px;
+}
+
+#caixao {
+  border: 1px solid black;
+  width: 450px;
+  margin: 9px;
+  margin-inline: auto;
+  height: 580px;
+}
+
+#foto {
+  border: 2px solid black;
+  width: 214px;
+  height: 220px;
+}
+
+#contato {
+  border: 2px solid black;
+  width: 172px;
+  height: 23px;
+  padding: 10px;
+  text-align: center;
+}
+
+#nome {
+  border: 0.95px solid black;
+  height: 19px;
+}
+
+#cargo {
+  border: 0.96px solid black;
+  height: 19px;
+  margin-top: 15px;
+}
+
+#email {
+  border: 0.96px solid black;
+  height: 19px;
+  margin-top: 15px;
+}
+
+#p1 {
+  border: 0.96px solid black;
+  height: 19px;
+  margin-bottom: 40px;
+  margin-top: 15px;
+}
+
+#p2 {
+  border: 1px solid black;
+  margin-top: 20px;
+}
+
+
+.caixas {
+  margin-top: 15px;
+}
+
+.caixas div {
+  height: 79px;
+  width: 80px;
+  padding: 4px;
+  display: inline-block;
+  border: 1px solid black;
+}
+
+.cx2 {
+  margin-left: -15px;
+}
+
+.cx {
+  margin-left: 1px;
+}
+
+
+footer {
+  border: 1px solid black;
+  margin: 10px 20px 30px 40px;
+}
